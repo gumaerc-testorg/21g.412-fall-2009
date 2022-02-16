@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 51c95b4a-c492-e808-b894-89ea5b9b9155
 ---
@@ -36,10 +38,10 @@ Einführung
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Franz Kafka
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Kafka, Franz. "[Das Urteil.](http://de.wikisource.org/wiki/Das_Urteil)" Leipzig, Germany: Kurt Wolff, 1912.
@@ -62,10 +64,10 @@ Kafka, Franz. "[Das Urteil.](http://de.wikisource.org/wiki/Das_Urteil)" Leipzig,
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 E. T. A. Hoffmann
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Hoffmann, E.T. A. "[Der Sandmann.](http://de.wikisource.org/wiki/Der_Sandmann)" _Nachtstücke_. Berlin, Germany: Georg Reimer Realschulbuchhandlung, 1817.
@@ -88,10 +90,10 @@ andrewhu. "Doll Face." February 19, 2007. YouTube. Accessed April 9, 2010. [http
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Film: _Metropolis_
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Lang, Fritz. _Metropolis_. Germany: UFA, 1927.
@@ -122,10 +124,10 @@ Wiedlich, Wolfgang. "[Panische Reaktionen auf eine Fiktion](http://www.general-a
 {{< tdopen >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Hörspiele/Hörstücke
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Dürrenmatt, Friedrich. "Die Panne." Zürich, Switzerland: Arche, 1956.
@@ -158,10 +160,10 @@ Hardegen, Dirk. "Zombie." Ohrenkneifer, 2007.
 {{< tdopen >}}
 11
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Friedrich Dürrenmatt
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Dürrenmatt, Friedrich. _Die Physiker_. Zürich, Switzerland: Arche, 1962.
@@ -200,10 +202,10 @@ Henckel von Donnersmarck, Florian. _Das Leben der Anderen_. München, Germany: W
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Wolf Biermann
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 musicloveraustria2. "Wolf Biermann Köln 13.11.1976 – Ahh – ja." May 25, 2008. YouTube. Accessed April 9, 2010. [http://www.youtube.com/watch?v=sDlNuPf\_w1c](http://www.youtube.com/watch?v=sDlNuPf_w1c)
@@ -228,10 +230,10 @@ musicloveraustria2. "Wolf Biermann - Nach der Ausbürgerung im Nov. 1976." May 2
 {{< tdopen >}}
 16
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Herta Müller
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Müller, Herta. _Der König verneigt sich und tötet_. München, Germany: Hanser, 2003. ISBN: 9783446203532.
@@ -254,10 +256,10 @@ Müller, Herta. _Der König verneigt sich und tötet_. München, Germany: Hanser
 {{< tdopen >}}
 18
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Peter Eisenman
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Eisenman, Peter. _Denkmal für die ermordeten Juden Europas_. Berlin, Germany. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.8MB]({{< baseurl >}}/resources/mit21g_412f09_eisenman)) (Courtesy of Peter Eisenman. Used with permission.)
@@ -307,7 +309,7 @@ Sebald, W. G. "Paul Bereyter." _Die Ausgewanderten_. Frankfurt, Germany: Eichbor
 {{< tdopen >}}
 Doris Dörrie
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Dörrie, Doris. _Keiner liebt mich_. Germany: Cobra Film, 1995.
@@ -337,10 +339,10 @@ Film: _Keiner liebt mich_
 {{< tdopen >}}
 24
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lyrik und das Problem der Übersetzung
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Lyrik von Paul Celan, Ingeborg Bachmann, Rose Ausländer, Durs Grünbein, Albert Ostermaier, und Yoko Tawada.

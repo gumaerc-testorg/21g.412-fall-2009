@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 33b77d2d-f3d9-72d4-a203-ca4a40b609be
 ---
@@ -36,7 +39,7 @@ Homework 1 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw01))
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Franz Kafka
 {{< tdclose >}}
 {{< tdopen >}}
@@ -57,7 +60,7 @@ Homework 3 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw03))
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 E. T. A. Hoffmann
 {{< tdclose >}}
 {{< tdopen >}}
@@ -78,7 +81,7 @@ Homework 5 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw05))
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Film: _Metropolis_
 {{< tdclose >}}
 {{< tdopen >}}
@@ -99,7 +102,7 @@ Film: _Metropolis_
 {{< tdopen >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Hörspiele/Hörstücke
 {{< tdclose >}}
 {{< tdopen >}}
@@ -129,7 +132,7 @@ Homework 7 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw07))
 {{< tdopen >}}
 11
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Friedrich Dürrenmatt
 {{< tdclose >}}
 {{< tdopen >}}
@@ -162,7 +165,7 @@ Homework 9 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw09))
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Wolf Biermann
 {{< tdclose >}}
 {{< tdopen >}}
@@ -183,7 +186,7 @@ Wolf Biermann concert
 {{< tdopen >}}
 16
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Herta Müller
 {{< tdclose >}}
 {{< tdopen >}}
@@ -204,7 +207,7 @@ Homework 11 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw11))
 {{< tdopen >}}
 18
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Peter Eisenman
 {{< tdclose >}}
 {{< tdopen >}}
@@ -273,7 +276,7 @@ Homework 16 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw16))
 {{< tdopen >}}
 24
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lyrik und das Problem der Übersetzung
 {{< tdclose >}}
 {{< tdopen >}}
