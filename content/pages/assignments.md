@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the homework assignments of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ KEY DATES
 Einführung
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 1 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw01))
+Homework 1 ({{% resource_link c8eeb988-bfcc-9f41-1200-da0fd1d48944 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Homework 1 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw01))
 Franz Kafka
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 2 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw02))
+Homework 2 ({{% resource_link e7a79022-9918-dce5-9b39-ae662e61890b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Homework 2 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw02))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 3 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw03))
+Homework 3 ({{% resource_link bbf96a1c-f143-0d71-9d62-915d96ab576f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +65,7 @@ Homework 3 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw03))
 E. T. A. Hoffmann
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 4 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw04))
+Homework 4 ({{% resource_link 7ef0b592-b48d-7383-f947-42874e49e5ae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +74,7 @@ Homework 4 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw04))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 5 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw05))
+Homework 5 ({{% resource_link ecb4aee3-d730-46e4-064e-21b47050fca1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Film: _Metropolis_
 Hörspiele/Hörstücke
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 6 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw06))
+Homework 6 ({{% resource_link 9a12509c-f785-8ed4-15ca-b4cfc4bf75b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +125,7 @@ Aufsatz 1 due
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 7 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw07))
+Homework 7 ({{% resource_link 5c153fa1-b715-561c-8b10-fd3f4b30714b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +146,7 @@ Friedrich Dürrenmatt
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 8 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw08))
+Homework 8 ({{% resource_link 34199bc4-b25d-aa1e-6781-d2a80e91250c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Homework 8 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw08))
 Film: _Das Leben der Anderen_
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 9 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw09))
+Homework 9 ({{% resource_link 2d2b88c6-2e68-9f47-f0cd-99ebc9b25b3c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Homework 9 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw09))
 Wolf Biermann
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 10 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw10))
+Homework 10 ({{% resource_link e4bee3e7-8891-e69a-49c7-1dd20cad6de1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +200,7 @@ Aufsatz 2 due
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 11 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw11))
+Homework 11 ({{% resource_link 1787e46f-cece-5362-d32e-bb051a5382e1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +221,7 @@ Peter Eisenman
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 12 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw12))
+Homework 12 ({{% resource_link 5df32428-5580-b711-4eee-19b16263da32 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +233,7 @@ Homework 12 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw12))
 Bernhard Schlink
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 13 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw13))
+Homework 13 ({{% resource_link dee6051f-e68b-82f3-b1af-8a220348fd94 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +245,7 @@ Homework 13 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw13))
 W. G. Sebald
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 14 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw14))
+Homework 14 ({{% resource_link d74fbed0-a718-8fba-b9a3-398abb0ab697 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +257,7 @@ Homework 14 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw14))
 Doris Dörrie
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 15 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw15))
+Homework 15 ({{% resource_link 8550a033-160a-c77e-7128-c3ff69939796 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +269,7 @@ Homework 15 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw15))
 Film: _Keiner liebt mich_
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 16 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw16))
+Homework 16 ({{% resource_link 4479600c-278f-a844-bf41-9f3d07e31020 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -289,7 +290,7 @@ Lyrik und das Problem der Übersetzung
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 17 ([PDF]({{< baseurl >}}/resources/mit21g_412f09_hw17))
+Homework 17 ({{% resource_link 0b9c83c6-911b-7e2d-b018-06b8276999b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
