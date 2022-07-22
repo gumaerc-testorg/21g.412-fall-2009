@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus, written in German, provides the course description, the
+  aim of the course, and information on course requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c4c204f6-601d-453c-71ab-96a9c66317a4
 ---
