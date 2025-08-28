@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Berlin holocaust memorial
   design.
-file: /courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/a2ae92b36225125b873f09fc2c3d0c46_MIT21G_412F09_eisenman.pdf
+file: /ol-ocw-studio-app/courses/21g-412-texts-topics-and-times-in-german-literature-fall-2009/a2ae92b36225125b873f09fc2c3d0c46_MIT21G_412F09_eisenman.pdf
 file_size: 3964248
 file_type: application/pdf
 learning_resource_types: []
