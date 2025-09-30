@@ -46,13 +46,13 @@ Franz Kafka
 {{< tdopen rowspan="2" >}}
 
 
-Kafka, Franz. "[Das Urteil.](http://de.wikisource.org/wiki/Das_Urteil)" Leipzig, Germany: Kurt Wolff, 1912.
+Kafka, Franz. "{{% resource_link "9ef88eb4-ea6d-4476-ba6f-986b38813598" "Das Urteil." %}}" Leipzig, Germany: Kurt Wolff, 1912.
 
-———. "[Brief an den Vater](http://de.wikisource.org/wiki/Brief_an_den_Vater)." 1919.
+———. "{{% resource_link "b98053a7-88a6-4cff-a72b-0fa5b8de74cd" "Brief an den Vater" %}}." 1919.
 
-[Porträtfoto von Franz Kafka, 1923](http://commons.wikimedia.org/wiki/File:Kafka.jpg)
+{{% resource_link "0c316016-d84b-4095-a270-dbec314c27e4" "Porträtfoto von Franz Kafka, 1923" %}}
 
-[Kafka – Briefmarke 2008](http://commons.wikimedia.org/wiki/File:DPAG_2008_Franz_Kafka.jpg)
+{{% resource_link "1153cfc2-696f-489b-a340-6e1fa9466df3" "Kafka – Briefmarke 2008" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,13 +72,13 @@ E. T. A. Hoffmann
 {{< tdopen rowspan="2" >}}
 
 
-Hoffmann, E.T. A. "[Der Sandmann.](http://de.wikisource.org/wiki/Der_Sandmann)" _Nachtstücke_. Berlin, Germany: Georg Reimer Realschulbuchhandlung, 1817.
+Hoffmann, E.T. A. "{{% resource_link "d0211b44-6d1c-472d-9592-ee208beed7e6" "Der Sandmann." %}}" _Nachtstücke_. Berlin, Germany: Georg Reimer Realschulbuchhandlung, 1817.
 
-richragsdale. "The Sandman." January 28, 2007. YouTube. Accessed April 9, 2010. [http://www.youtube.com/watch?v=Mqcx6r57GRI](http://www.youtube.com/watch?v=Mqcx6r57GRI)
+richragsdale. "The Sandman." January 28, 2007. YouTube. Accessed April 9, 2010. {{% resource_link "a48b4266-b354-4708-8366-a4bc6d69def7" "http://www.youtube.com/watch?v=Mqcx6r57GRI" %}}
 
-andrewhu. "Doll Face." February 19, 2007. YouTube. Accessed April 9, 2010. [http://www.youtube.com/watch?v=zl6hNj1uOkY](http://www.youtube.com/watch?v=zl6hNj1uOkY)
+andrewhu. "Doll Face." February 19, 2007. YouTube. Accessed April 9, 2010. {{% resource_link "4ecdcc0e-8290-4a21-b9b8-9b2e90cc7417" "http://www.youtube.com/watch?v=zl6hNj1uOkY" %}}
 
-[E. T. A. Hoffmann Porträt](http://commons.wikimedia.org/wiki/File:ETA_Hoffmann.jpg)
+{{% resource_link "d71b24e1-2b9d-42b6-98d0-af3cac5db60b" "E. T. A. Hoffmann Porträt" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,17 +100,17 @@ Film: _Metropolis_
 
 Lang, Fritz. _Metropolis_. Germany: UFA, 1927.
 
-[Filmplakat 1](http://web.archive.org/web/20000919204437/www.uow.edu.au/~morgan/graphics/metro141.jpg), [Filmplakat 2](http://image3.examiner.com/images/blog/EXID5464/images/metropolis.jpg)
+{{% resource_link "2a37e6d9-d800-439e-a725-61d4253c9438" "Filmplakat 1" %}}, {{% resource_link "7cfe1c36-31c7-40ac-9367-ed0847fba629" "Filmplakat 2" %}}
 
-Pieter Brueghel the Elder. [_Tower of Babel_](http://en.wikipedia.org/wiki/File:Brueghel-tower-of-babel.jpg). Oil on canvas, 1563.
+Pieter Brueghel the Elder. {{% resource_link "4473d1b4-3ef3-47db-bb7c-9e646d507dac" "_Tower of Babel_" %}}. Oil on canvas, 1563.
 
-Kushrynada. "Queen – Radio Ga Ga \[HQ\]." June 17, 2007. YouTube. Accessed April 9, 2010. [http://www.youtube.com/watch?v=rBUr1pSWTVI](http://www.youtube.com/watch?v=rBUr1pSWTVI)
+Kushrynada. "Queen – Radio Ga Ga \[HQ\]." June 17, 2007. YouTube. Accessed April 9, 2010. {{% resource_link "8937f3d3-65d7-4b43-8a36-fdf3f5ded953" "http://www.youtube.com/watch?v=rBUr1pSWTVI" %}}
 
-madonna. "Madonna – Express Yourself." October 26, 2009. YouTube. Accessed April 9, 2010. [http://www.youtube.com/watch?v=a9goAWJ6L00](http://www.youtube.com/watch?v=a9goAWJ6L00)
+madonna. "Madonna – Express Yourself." October 26, 2009. YouTube. Accessed April 9, 2010. {{% resource_link "50eaf5df-b5cd-4b33-9421-0ff78c5b304b" "http://www.youtube.com/watch?v=a9goAWJ6L00" %}}
 
-Wiedlich, Wolfgang. "[Panische Reaktionen auf eine Fiktion](http://www.general-anzeiger-bonn.de/themenarchiv/importfallback/ecealtsystem/Vermischtes-Panische-Reaktionen-auf-eine-Fiktion-article275899.html)." _General-Anzeiger_, December 31, 1998.
+Wiedlich, Wolfgang. "{{% resource_link "0cfcb732-57c6-4af2-bef0-5103b77b83ea" "Panische Reaktionen auf eine Fiktion" %}}." _General-Anzeiger_, December 31, 1998.
 
-"[Klischee, Plattitüde und Chaos.](http://www.zeit.de/online/2008/27/metropolis-kritiken)" _Zeit_, July 2, 2008.
+"{{% resource_link "154f59f8-ff40-42d8-a958-bf95d86a64f0" "Klischee, Plattitüde und Chaos." %}}" _Zeit_, July 2, 2008.
 
 
 {{< tdclose >}}
@@ -136,11 +136,11 @@ Dürrenmatt, Friedrich. "Die Panne." Zürich, Switzerland: Arche, 1956.
 
 Hardegen, Dirk. "Zombie." Ohrenkneifer, 2007.
 
-———. "[Beim Baden: Verschwunden.](http://www.ard.de/radio/hoerspieltage/-/id=667794/5oek9i/index.html)" ARD, 2007.
+———. "{{% resource_link "27000926-0f77-448f-87e5-8a86feb260d3" "Beim Baden: Verschwunden." %}}" ARD, 2007.
 
 ———. "Die Urlaubsüberraschung oder: Nie wieder Korfu." ORF, 2007.
 
-[Hör-Bar](http://www.hoer-bar.de/top.php), Webseite mit vielen weiteren Hörspielen
+{{% resource_link "c43c5c66-e9fa-4041-8226-bbf1687bcb53" "Hör-Bar" %}}, Webseite mit vielen weiteren Hörspielen
 
 
 {{< tdclose >}}
@@ -170,13 +170,13 @@ Friedrich Dürrenmatt
 
 Dürrenmatt, Friedrich. _Die Physiker_. Zürich, Switzerland: Arche, 1962.
 
-[Albert Einstein's Letters to President Franklin Delano Roosevelt](http://hypertextbook.com/eworld/einstein.shtml)
+{{% resource_link "a65fa730-2352-4f9c-b382-9d372d7fb3c1" "Albert Einstein's Letters to President Franklin Delano Roosevelt" %}}
 
-[Einstein Explains the Equivalence of Energy and Matter](http://plato.stanford.edu/entries/equivME/)
+{{% resource_link "c6f9791d-c74e-4903-8dcf-a65f343e1790" "Einstein Explains the Equivalence of Energy and Matter" %}}
 
-[Albert Einstein Biografie](http://www.einsteingalerie.de/)
+{{% resource_link "24480d0d-3ab8-4122-9ae0-e8ec8bda3880" "Albert Einstein Biografie" %}}
 
-"[Interview mit Friedrich Dürrenmatt.](http://www.dw-world.de/popups/popup_single_mediaplayer/0,,2341536_type_audio_struct_9823_contentId_2341517,00.html)" [_Schriftsteller im Gespräch_](http://www.dw-world.de/dw/article/0,,2341517,00.html). Bonn, Germany: Deutsche Welle, May 22, 2007.
+"{{% resource_link "fcb70a9b-8019-438d-9e5b-12d8cdda3ba7" "Interview mit Friedrich Dürrenmatt." %}}" {{% resource_link "04eb9b0e-721b-4f64-b7fa-863a13c2b2a2" "_Schriftsteller im Gespräch_" %}}. Bonn, Germany: Deutsche Welle, May 22, 2007.
 
 
 {{< tdclose >}}
@@ -210,13 +210,13 @@ Wolf Biermann
 {{< tdopen rowspan="2" >}}
 
 
-musicloveraustria2. "Wolf Biermann Köln 13.11.1976 – Ahh – ja." May 25, 2008. YouTube. Accessed April 9, 2010. [http://www.youtube.com/watch?v=sDlNuPf\_w1c](http://www.youtube.com/watch?v=sDlNuPf_w1c)
+musicloveraustria2. "Wolf Biermann Köln 13.11.1976 – Ahh – ja." May 25, 2008. YouTube. Accessed April 9, 2010. {{% resource_link "88cc913b-fc6a-490c-8e88-d15018f98a72" "http://www.youtube.com/watch?v=sDlNuPf\_w1c" %}}
 
-moralapostel47. "Wolf Biermann – Ermutigung." July 17, 2007. YouTube. Accessed April 9, 2010. [http://www.youtube.com/watch?v=0e6q6tLRzGM](http://www.youtube.com/watch?v=0e6q6tLRzGM)
+moralapostel47. "Wolf Biermann – Ermutigung." July 17, 2007. YouTube. Accessed April 9, 2010. {{% resource_link "0c425530-3407-48e0-9de2-2a806e569c34" "http://www.youtube.com/watch?v=0e6q6tLRzGM" %}}
 
-musicloveraustria2. "Wolf Biermann - Nach der Ausbürgerung im Nov. 1976." May 25, 2008. YouTube. Accessed April 9, 2010. [http://www.youtube.com/watch?v=XO1ZK4ax8JI](http://www.youtube.com/watch?v=XO1ZK4ax8JI)
+musicloveraustria2. "Wolf Biermann - Nach der Ausbürgerung im Nov. 1976." May 25, 2008. YouTube. Accessed April 9, 2010. {{% resource_link "550efc7f-3219-4d5d-a7cb-69194841ef53" "http://www.youtube.com/watch?v=XO1ZK4ax8JI" %}}
 
-———. "Wolf Biermann Köln 13.11.1976 - über den 17.6.1953." May 25, 2008. YouTube. Accessed April 9, 2010. [http://www.youtube.com/watch?v=I7-2VNA4jGg](http://www.youtube.com/watch?v=I7-2VNA4jGg)
+———. "Wolf Biermann Köln 13.11.1976 - über den 17.6.1953." May 25, 2008. YouTube. Accessed April 9, 2010. {{% resource_link "1936c32e-8ab7-4d1b-82c5-a5815cb4ed4d" "http://www.youtube.com/watch?v=I7-2VNA4jGg" %}}
 
 
 {{< tdclose >}}
@@ -242,7 +242,7 @@ Müller, Herta. _Der König verneigt sich und tötet_. München, Germany: Hanser
 
 "Herta Müller auf dem blauen sofa." Frankfurter, Germany: ZDF Mediathek, October 16, 2009.
 
-"[Auf den Spuren Herta Müllers in Rumänien.](http://www.zdf.de/ZDFmediathek/hauptnavigation/startseite#/beitrag/video/921524/Auf-den-Spuren-Herta-M%C3%BCllers-in-Rum%C3%A4nien)" Frankfurter, Germany: ZDF Mediathek, December 10, 2009.
+"{{% resource_link "8ab2c3bd-0987-4c08-9ebe-168b5b48e575" "Auf den Spuren Herta Müllers in Rumänien." %}}" Frankfurter, Germany: ZDF Mediathek, December 10, 2009.
 
 
 {{< tdclose >}}
@@ -266,7 +266,7 @@ Peter Eisenman
 
 Eisenman, Peter. _Denkmal für die ermordeten Juden Europas_. Berlin, Germany. ({{% resource_link a2ae92b3-6225-125b-873f-09fc2c3d0c46 "PDF - 3.8MB" %}}) (Courtesy of Peter Eisenman. Used with permission.)
 
-[Memorial to the Murdered Jews of Europe on Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Memorial_to_the_Murdered_Jews_of_Europe)
+{{% resource_link "189768db-e8f8-4f44-8b4a-a2cf0fd197b7" "Memorial to the Murdered Jews of Europe on Wikimedia Commons" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,11 +318,11 @@ Dörrie, Doris. _Keiner liebt mich_. Germany: Cobra Film, 1995.
 
 ———. "Orfeo." _Für immer und ewig: Eine Art Reigen_. Zürich, Switzerland: Diogenes, 1993. ISBN: 9783257225723.
 
-Löhndorf, Marion. "Das Jammern ist des Singles Lust." _Frankfurter Allgemeine Zeitung_, January 17, 1995. ([PDF](http://www.deutsches-filminstitut.de/sozialgeschichte/mov/r047a.pdf))
+Löhndorf, Marion. "Das Jammern ist des Singles Lust." _Frankfurter Allgemeine Zeitung_, January 17, 1995. ({{% resource_link "fbe1ff95-5b78-4f62-b15c-85815ad05b8b" "PDF" %}})
 
-Kühn, Heike. "Böse Witze & mystiche Einflüsterungen." _Frankfurter Rundschau_, January 12, 1995. ([PDF](http://www.deutsches-filminstitut.de/sozialgeschichte/mov/r047b.pdf))
+Kühn, Heike. "Böse Witze & mystiche Einflüsterungen." _Frankfurter Rundschau_, January 12, 1995. ({{% resource_link "cce9a276-6712-46c1-83f6-7c80bdd573f4" "PDF" %}})
 
-Buchka, Peter. "Deutschland, ein Faschingsmärchen." _Süddeutsche Zeitung_, January 12, 1995. ([PDF](http://www.deutsches-filminstitut.de/sozialgeschichte/mov/r047c.pdf))
+Buchka, Peter. "Deutschland, ein Faschingsmärchen." _Süddeutsche Zeitung_, January 12, 1995. ({{% resource_link "0105660b-2a05-4bdf-998a-ea1cc6422687" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -369,7 +369,7 @@ Gedichtsübersetzungen von Michael Hamburger u.a. und MIT-Studenten und Studenti
 Poetry Slam
 {{< tdclose >}}
 {{< tdopen >}}
-Westdeutscher Rundfunk (WDR) [Poetry Slam 2009](http://www.wdr.de/tv/poetryslam/)
+Westdeutscher Rundfunk (WDR) {{% resource_link "18d19a64-8920-41a8-8604-631f3b100a8d" "Poetry Slam 2009" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
